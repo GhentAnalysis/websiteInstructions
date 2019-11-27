@@ -5,7 +5,7 @@ The website https://epp.ugent.be/ was set up by Ward Van Driessche end 2018 with
 * [Backup](https://github.com/GhentAnalysis/websiteInstructions#make-a-backup)
 * [Plugins](https://github.com/GhentAnalysis/websiteInstructions#plugins)
 * [Change something on the website](https://github.com/GhentAnalysis/websiteInstructions#how-to-change-something-on-the-website)
-
+* [How to customize](https://github.com/GhentAnalysis/websiteInstructions#how-to-customize)
 
 # General information
 
@@ -20,7 +20,7 @@ You’ll land on a wordpress design page where you can find everything you need 
 
 # Make a backup
 
-The list of back-ups can be found [at this page](https://epp.ugent.be/wp-admin/admin.php?page=ai1wm_backups), were you also could restore an old version or make a new backup. 
+The list of back-ups can be found [at this page](https://epp.ugent.be/wp-admin/admin.php?page=ai1wm_backups), where you also could restore an old version or make a new backup. 
 
 # Plugins
 
@@ -34,24 +34,21 @@ To implement a new plugin, go to [this page](https://epp.ugent.be/wp-admin/plugi
 
 # How to change something on the website?
 
-First, let me explain how the website is set up. Please read this first, before you make changes. It’ll make your life much easier.
+First, let me explain how the website is set up. Please read this first, before you make changes. It’ll make your life much easier. 
+The website uses [pages](https://epp.ugent.be/wp-admin/edit.php?post_type=page) that each contain some information. The menu you can read on the main page of the website (About us, Research, etc.) simply links to a certain page.
+Example: in the [pages menu](https://epp.ugent.be/wp-admin/edit.php?post_type=page), click on [2016-2017](https://epp.ugent.be/wp-admin/post.php?post=573&action=edit), which is a page where the seminars of that year are listed. The text can be easily updated and get yourself a bit familiar with all the options. You can add quotes, color your text, add images, etc. Don’t forget to update your page and check if all your implementations were correct!
+If you make changes, be consistent in style and try to make it nice to read. 
 
-The website uses “Pages” that each contain some information. The menu you can read on the main page of the website (About us, Research, etc.) simply links to a certain page. That’s it. No more, no less.
-
-If you need to change a page: go to “Pages” on the left side panel, find the right page and edit!
-Example: click on “2016-2017”, which is a page where the seminars of that year are listed. The text can be easily updated and get yourself a bit familiar with all the options. You can add quotes, color your text, add images, etc. I won’t go over all the options, have a look yourself and now you know where to find the source code of all the pages. If you want to duplicate some feature from another page, find the according page and see how it’s done. Don’t forget to update your page and check if all your implementations were correct!
-Rule no 4: If you make changes, be consistent in style and try to make it nice to read. The person reading this is probably a physicist who doesn’t care too much for this, but all your effort in having a nice text is probably for nothing if it looks like it’s been copied from a telegram.
-
-If you need to add a page: go to “Pages”, and “add new”. Now the page exists, but it’s not linked on the website anywhere. Go to “How to customize” in the text below how to do so.
+If you need to add a page: [click here](https://epp.ugent.be/wp-admin/post-new.php?post_type=page). Now the page exists, but it’s not linked on the website anywhere. See the [next section](https://github.com/GhentAnalysis/websiteInstructions#how-to-customize) on how to do this.
 
 # How to customize?
 
-On the side panel, click “appearance” and then “customize”.
+Go to the [customize tab](https://epp.ugent.be/wp-admin/customize.php?return=%2Fwp-admin%2Fthemes.php) in the [appearance submenu](https://epp.ugent.be/wp-admin/themes.php).
 You’ll need this if you want to:
-Change the general appearance of the website
-Change the main page (text and/or images)
-Change the bottom bar with the RSS feed etc
-Change the menu (removing or adding items)
+* Change the general appearance of the website:
+* Change the main page (text and/or images)
+* Change the bottom bar with the RSS feed etc
+* Change the menu (removing or adding items)
 
 First, you can completely change the whole style of the website by changing the theme, which is now set to “Spacious”. I DO NOT RECOMMEND TO DO THIS BEFORE MAKING A BACKUP. AND YOU’LL NEED A LOT OF TIME TO SET EVERYTHING UP AGAIN.
 
