@@ -4,6 +4,7 @@ The website https://epp.ugent.be/ was set up by Ward Van Driessche end 2018 with
 * [General information](https://github.com/GhentAnalysis/websiteInstructions#general-information)
 * [Backup](https://github.com/GhentAnalysis/websiteInstructions#make-a-backup)
 * [Plugins](https://github.com/GhentAnalysis/websiteInstructions#plugins)
+* [Change something on the website](https://github.com/GhentAnalysis/websiteInstructions#how-to-change-something-on-the-website)
 
 
 # General information
@@ -17,22 +18,19 @@ Ask password to someone who knows it
 
 You’ll land on a wordpress design page where you can find everything you need to make adjustments
 
-
-Regularly updating plugins has the disadvantage that the way something has to be changed/added/… changes. Usually, this is to your advantage. Don’t be a dinosaur that hates change.
-PS: it is possible that the guidelines in this text are not always up-to-date just because of this.
-
 # Make a backup
 
-On the side panel you can find a “All-in-One WP Migration” plugin, “export” the website to “file” (first option in the dropdown menu). This file can be used to “import” the entire website.
+The list of back-ups can be found [at this page](https://epp.ugent.be/wp-admin/admin.php?page=ai1wm_backups), were you also could restore an old version or make a new backup. 
 
 # Plugins
 
-Plugins are very useful tools that are provided by the large wordpress community. For example, there is no easy way to implement a table that lists a bunch of things, such as the PhD theses: https://epp.ugent.be/index.php/phdtheses/
+[Plugins](https://epp.ugent.be/wp-admin/plugins.php) are very useful tools that are provided by the large wordpress community. For example, there is no easy way to implement a table that lists a bunch of things, such as the PhD theses: https://epp.ugent.be/index.php/phdtheses/
 Therefore, I searched for a table plugin that does exactly this! 
 
-Press “plugins” on the side panel, you’ll find a list of the installed plugins there. Press “add new” to implement a new plugin and don’t forget to activate it. How to use the plugin is usually explained on the page of that plugin.
+Please keep the plugins a bit up to date. Just follow [this link](https://epp.ugent.be/wp-admin/update-core.php), “select all” and update. Regularly updating plugins has the disadvantage that the way something has to be changed/added/… changes. Usually, this is to your advantage. Don’t be a dinosaur that hates change.
+PS: it is possible that the guidelines in this text are not always up-to-date just because of this.
 
-Please keep the plugins a bit up to date. Just follow [this link](https://epp.ugent.be/wp-admin/update-core.php), “select all” and update
+To implement a new plugin, go to [this page](https://epp.ugent.be/wp-admin/plugin-install.php) were you can browse and install new plugins. Don’t forget to activate it. How to use the plugin is usually explained on the page of that plugin.
 
 # How to change something on the website?
 
