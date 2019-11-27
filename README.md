@@ -6,6 +6,10 @@ The website https://epp.ugent.be/ was set up by Ward Van Driessche end 2018 with
 * [Plugins](https://github.com/GhentAnalysis/websiteInstructions#plugins)
 * [Change something on the website](https://github.com/GhentAnalysis/websiteInstructions#how-to-change-something-on-the-website)
 * [How to customize](https://github.com/GhentAnalysis/websiteInstructions#how-to-customize)
+* [How to add an image?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-an-image)
+* [How to add a pdf?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-a-pdf)
+* [How to add a table?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-a-table)
+
 
 # General information
 
@@ -66,7 +70,17 @@ DON’T FORGET TO PRESS “PUBLISH” ONCE YOU’VE MADE CHANGES, OTHERWISE YOUR
 
 # How to add an image?
 
-On the side panel, press “Media” if you want to look at all the images that are currently uploaded. If you want to add a new one, simply press “Add New”. If you have a problem with the upload size limit: talk to Bart Vancauteren.
+You can add a new image by clicking on the [media menu](https://epp.ugent.be/wp-admin/upload.php). If you have a problem with the upload size limit: talk to Bart Vancauteren.
+
+## How to add an image gallery?
+
+The [robo gallery plugin](https://epp.ugent.be/wp-admin/edit.php?post_type=robo_gallery_table) was updated to the pro version, after payment (by prof. dr. Dirk Ryckbosch). The pro version allows to add multiple galleries to the website.
+
+## How to add a gallery to a page? 
+Copy the shortcode of the gallery and plug this into your page and the gallery will be added to the page!
+
+## How to add a new gallery? 
+Press [Add Gallery/Images](https://epp.ugent.be/wp-admin/post-new.php?post_type=robo_gallery_table) and go through the large list of options. Best to enable the cache of the gallery to load the website faster. Add images by pressing [Manage Images](https://epp.ugent.be/wp-admin/edit.php?post_type=robo_gallery_table) and select the ones from the library or add new ones.
 
 # How to add a pdf?
 
@@ -84,16 +98,6 @@ How to add a table in a page? You’ll find a shortcode for the table under “T
 Simply copy this into your page (under “Pages”) and the table will be added to the page!
 
 
-# How to add an image gallery?
-
-On the side panel, click “Robo Gallery”. This plugin was updated to the pro version, after payment (by prof. dr. Dirk Ryckbosch). The pro version allows to add multiple galleries to the website.
-
-Under “Manage Galleries”, you can find a list of the current galleries that exists. 
-
-# How to add a gallery to a page? 
-Copy the shortcode of the gallery and plug this into your page (under “Pages”) and the gallery will be added to the page!
-
-How to add a new gallery? Press “Add Gallery/Images” and go through the large list of options. Best to enable the cache of the gallery to load the website faster. Add images by pressing “Manage Images” and select the ones from the library or add new ones (more info: see “How to add an image”).
 
 # How to change the email contact person?
 
