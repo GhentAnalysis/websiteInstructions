@@ -1,17 +1,16 @@
 The website https://epp.ugent.be/ was set up by Ward Van Driessche end 2018 with the help of Bart Vancauteren (IT department) and Sander Vanheule (manusje-van-alles)
 
-Below, some information can be found on how to change the website.
 
-READ ALL THE RULES EVEN IF YOU DON’T THINK YOU NEED THEM
-
-Important to note is: the website uses wordpress, which makes implementations fairly easy and no knowledge of html/css is required. Problems can be easily found on Google!
-
-Rule no 1: if you have a problem, google it!
+* [General information](https://github.com/GhentAnalysis/websiteInstructions#general-information)
+* [Backup](https://github.com/GhentAnalysis/websiteInstructions#make-a-backup)
+* [Plugins](https://github.com/GhentAnalysis/websiteInstructions#plugins)
 
 
 # General information
 
-If you want to make adjustments to the website, surf to https://epp.ugent.be/wp-admin
+The website uses wordpress, which makes implementations fairly easy and no knowledge of html/css is required, though also limit your flexibility in customizing. Problems can be easily found on Google!
+
+In order to make changes to the website, surf to https://epp.ugent.be/wp-admin
 
 Username: ugentfysicaensterrenkunde
 Ask password to someone who knows it
@@ -23,25 +22,18 @@ Rule no 2: please keep the plugins a bit up to date. Just press the “updates�
 Regularly updating plugins has the disadvantage that the way something has to be changed/added/… changes. Usually, this is to your advantage. Don’t be a dinosaur that hates change.
 PS: it is possible that the guidelines in this text are not always up-to-date just because of this.
 
-Who is the admin? The current admin is bart.vancauteren@ugent.be (PLEASE KEEP THIS UP TO DATE), this can be found under “Settings”/”General”.
-
 # Make a backup
 
 On the side panel you can find a “All-in-One WP Migration” plugin, “export” the website to “file” (first option in the dropdown menu). This file can be used to “import” the entire website.
 
-Rule no 3: before you make major adjustments, or at regular points in time: MAKE A BACKUP
-
-# What are plugins?
+# Plugins
 
 Plugins are very useful tools that are provided by the large wordpress community. For example, there is no easy way to implement a table that lists a bunch of things, such as the PhD theses: https://epp.ugent.be/index.php/phdtheses/
-
 Therefore, I searched for a table plugin that does exactly this! 
-
-# How to install a plugin? 
 
 Press “plugins” on the side panel, you’ll find a list of the installed plugins there. Press “add new” to implement a new plugin and don’t forget to activate it. How to use the plugin is usually explained on the page of that plugin.
 
-How to change something on the website?
+# How to change something on the website?
 
 First, let me explain how the website is set up. Please read this first, before you make changes. It’ll make your life much easier.
 
