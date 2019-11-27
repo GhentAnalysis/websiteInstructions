@@ -17,7 +17,6 @@ Ask password to someone who knows it
 
 You’ll land on a wordpress design page where you can find everything you need to make adjustments
 
-Rule no 2: please keep the plugins a bit up to date. Just press the “updates” button below “home” and “select all” and update
 
 Regularly updating plugins has the disadvantage that the way something has to be changed/added/… changes. Usually, this is to your advantage. Don’t be a dinosaur that hates change.
 PS: it is possible that the guidelines in this text are not always up-to-date just because of this.
@@ -32,6 +31,8 @@ Plugins are very useful tools that are provided by the large wordpress community
 Therefore, I searched for a table plugin that does exactly this! 
 
 Press “plugins” on the side panel, you’ll find a list of the installed plugins there. Press “add new” to implement a new plugin and don’t forget to activate it. How to use the plugin is usually explained on the page of that plugin.
+
+Please keep the plugins a bit up to date. Just follow [this link](https://epp.ugent.be/wp-admin/update-core.php), “select all” and update
 
 # How to change something on the website?
 
