@@ -88,7 +88,7 @@ This is a useful feature if one wants to upload a small master thesis or documen
 
 # How to add a table?
 
-Tables can be added with the “Tablepress” plugin. On the side panel, press “TablePress”. You’ll see a list of existing tables. New ones can be added by pressing “Add New”. Simply click on one of the tables to make changes. You can add new rows and columns with the buttons in the “Table Manipulation” menu.
+Tables can be added with the [Tablepress plugin](https://epp.ugent.be/wp-admin/admin.php?page=tablepress). You’ll see a list of existing tables and new ones can be added by pressing [Add New](https://epp.ugent.be/wp-admin/admin.php?page=tablepress_add) in the submenu. Simply click on one of the tables to make changes.
 
 How to add a pdf link in a table? Click on an empty cell and press “Insert Link” under “Table Manipulation”. The url you need to link is the url where the pdf can be found. You can find this url by going to the Media library and selecting your pdf. An url is shown there. 
 
