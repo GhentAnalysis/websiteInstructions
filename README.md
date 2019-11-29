@@ -84,7 +84,7 @@ Press [Add Gallery/Images](https://epp.ugent.be/wp-admin/post-new.php?post_type=
 
 # How to add a pdf?
 
-This is a useful feature if one wants to upload a PhD thesis. This is the same procedure as uploading an image. This was made possible with a plugin called “PDF Embedder”.
+This is a useful feature if one wants to upload a small master thesis or document. This is the same procedure as [uploading an image](https://epp.ugent.be/wp-admin/media-new.php). This was made possible with a plugin called “PDF Embedder”. There is however a file limit of 2MB currently in wordpress, there seem to be tutorials online to increase this, or alternatively you can host such larger files on the T2_BE_IIHE or EOS websites.
 
 # How to add a table?
 
