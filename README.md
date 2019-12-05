@@ -123,10 +123,12 @@ Again, we use shortcodes in the [members page](https://epp.ugent.be/wp-admin/pos
 
 I have listed the people chronologically: the one who is here longest is put first. Some people have extra information that becomes visible when you click on it. For example, adding the following in the “Description/biography” will create a “More information” dropdown text.
 
+```
 [expand title="More information"]
 Master 1 internship : Incredible
 Master 2 internship : Wauw
 PhD topic : Bla bla bla
 [/expand]
+```
 
 Unfortunately there is no way to move a contact from one team to another, you’ll have to do this by hand.
