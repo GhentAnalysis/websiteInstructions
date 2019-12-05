@@ -9,7 +9,8 @@ The website https://epp.ugent.be/ was set up by Ward Van Driessche end 2018 with
 * [How to add an image?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-an-image)
 * [How to add a pdf?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-a-pdf)
 * [How to add a table?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-a-table)
-
+* [How to change the email contact person?](https://github.com/GhentAnalysis/websiteInstructions#how-to-change-the-email-contact-person)
+* [How to remove/add/relocate a person?](https://github.com/GhentAnalysis/websiteInstructions#how-to-removeaddrelocate-a-person)
 
 # General information
 
@@ -101,27 +102,24 @@ Simply copy this into your page (under “Pages”) and the table will be added 
 
 # How to change the email contact person?
 
-Currently, emails are sent through smtp.ugent.be, meaning that the recipient should be a ugent email account. Currently this is set to be “eppwebsite@ugent.be”, which is linked the “dirk.ryckbosch@ugent.be”. If Dirk is no longer responsible for this website, you should ask the IT department to link your emailadress to eppwebsite@ugent.be.
+Currently, emails are sent through smtp.ugent.be, meaning that the recipient should be a ugent email account. Currently this is set to be eppwebsite_at_ugent_be, which is linked the Dirk's e-mail. If Dirk is no longer responsible for this website, you should ask the IT department to link your emailadress to eppwebsite_at_ugent_be.
 
-If you want to change this, go “Contact” on the left side panel, where only one contact form is set up. Change the settings there. Again, a shortcode for this form is used to link to a page (“Contact” under “Pages”).
+If you want to change this, go to the [contact form](https://epp.ugent.be/wp-admin/admin.php?page=wpcf7). Change the settings there. Again, a shortcode for this form is used to link it in the [contact page](https://epp.ugent.be/wp-admin/post.php?post=86&action=edit).
 
 # How to remove/add/relocate a person?
 
-Rule no 5: This is something that probably has to be done regularly! Please make time to do this, otherwise the website will look sloppy! (Tip: add a reminder in your agenda to look at this once every month).
+This is something that probably has to be done regularly! Please make time to do this, otherwise the website will look sloppy!
 
-We have split the people into several groups. 
+We have split the members into several groups:
+* Permanent staff: professors, long term contracts...
+* Research staff: PostDocs, temporary contracts…
+* PhD students
+* Master students
+* Graduated PhDs: this comes in handy to keep track of the people that graduated and can be important for these persons in later job hunting. Add information on their date of graduation and the title of their thesis.
+* Graduated masters: see bullet above
+* Previous research staff: see bullet above.
 
-Permanent staff: professors, long term contracts...
-Research staff: PostDocs, temporary contracts…
-PhD students
-Master students
-Graduated PhDs: this comes in handy to keep track of the people that graduated and can be important for these persons in later job hunting. Add information on their date of graduation and the title of their thesis. See below. This might seem less important as these people have left, but will bite you in the * if you don’t keep track. People forget.
-Previous research staff: see bullet above.
-
-Again, we use shortcodes in the “Members” page under “Pages”. These shortcodes are constructed with the “Team Members” plugin. You can find the settings in the side panel on the left under “Teams”. Copy a shortcode to a page and the team list will be shown on that page.
-Click on “Members: phd” as an example. You’ll see the people listed as phd students here. Everything is pretty straightforward to implement. Be thorough and list multiple social links when possible. Members can be added by scrolling to the bottom and pressing “Add a Member”. ALWAYS upload a photo. Not having a photo looks very unprofessional! How to add a photo to the library can be found under “How to add an image” in this text.
-
-Don’t forget to save! Press “Update” on the right
+Again, we use shortcodes in the [members page](https://epp.ugent.be/wp-admin/post.php?post=37&action=edit). These shortcodes are constructed with the [team members plugin](https://epp.ugent.be/wp-admin/edit.php?post_type=tmm). Click on a [team](https://epp.ugent.be/wp-admin/post.php?post=324&action=edit) to edit, where you update the information of each member or you can scroll down to add a member. Be thorough and list multiple social links when possible. Preferably also upload a photo. Don't forget to press *update* on the right!
 
 I have listed the people chronologically: the one who is here longest is put first. Some people have extra information that becomes visible when you click on it. For example, adding the following in the “Description/biography” will create a “More information” dropdown text.
 
@@ -130,11 +128,5 @@ Master 1 internship : Incredible
 Master 2 internship : Wauw
 PhD topic : Bla bla bla
 [/expand]
-Unfortunately I haven’t found a way to duplicate a contact from one team to another, you’ll have to do this by hand.
 
-Please ask people to provide you with this information. Again: professionalism.
-
-Rule no 6: In September (add this to your agenda!) you update the “Master Students”. Add them to “PhD Students” if they continue in the department or add them to “Graduated Master Students”. They deserve to be recognized for their work. Add their master thesis title to the biography and try to ask for a working email adres. If the PhD students are not up to date, change this as well (this probably should have been done already!). Look at the persons already in the new list and make sure everything is up-to-date for the new person in there! Oh, and maybe make a backup.
-
-LinkedIn is becoming more and more important in the private industry (I hope this will still be true of somebody is reading this in 2020 or later), young students should really have this on their contact information.
-
+Unfortunately there is no way to move a contact from one team to another, you’ll have to do this by hand.
