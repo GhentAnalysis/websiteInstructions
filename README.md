@@ -19,6 +19,7 @@ The website uses wordpress, which makes implementations fairly easy and no knowl
 In order to make changes to the website, surf to https://epp.ugent.be/wp-admin
 
 Username: ugentfysicaensterrenkunde
+
 Ask password to someone who knows it
 
 You’ll land on a wordpress design page where you can find everything you need to make adjustments
@@ -45,6 +46,10 @@ Example: in the [pages menu](https://epp.ugent.be/wp-admin/edit.php?post_type=pa
 If you make changes, be consistent in style and try to make it nice to read. 
 
 If you need to add a page: [click here](https://epp.ugent.be/wp-admin/post-new.php?post_type=page). Now the page exists, but it’s not linked on the website anywhere. See the [next section](https://github.com/GhentAnalysis/websiteInstructions#how-to-customize) on how to do this.
+
+# How to fix "page not found" problems?
+
+Because it is a wordpress website, changes don't always get published directly. If you encounter a "page not found" error (only seen when not logged in) the page is probably marked as draft in the [pages](https://epp.ugent.be/wp-admin/edit.php?post_type=page) menu. Click on it and search for the "publish" button to make sure it can be viewed by everyone.
 
 # How to customize?
 
