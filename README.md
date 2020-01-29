@@ -124,7 +124,7 @@ We have split the members into several groups:
 * Graduated masters: see bullet above
 * Previous research staff: see bullet above.
 
-Again, we use shortcodes in the [members page](https://epp.ugent.be/wp-admin/post.php?post=37&action=edit). These shortcodes are constructed with the [team members plugin](https://epp.ugent.be/wp-admin/edit.php?post_type=tmm). Click on a [team](https://epp.ugent.be/wp-admin/post.php?post=324&action=edit) to edit, where you update the information of each member or you can scroll down to add a member. Be thorough and list multiple social links when possible. Preferably also upload a photo. Don't forget to press *update* on the right!
+Again, we use shortcodes in the [members page](https://epp.ugent.be/wp-admin/post.php?post=37&action=edit). These shortcodes are constructed with the [team members plugin](https://epp.ugent.be/wp-admin/edit.php?post_type=tmm). Click on a [team](https://epp.ugent.be/wp-admin/post.php?post=324&action=edit) to edit, where you update the information of each member or you can scroll down to add a member. Be thorough and list multiple social links when possible (not that social links are not always displayed when using some adblockers). Preferably also upload a photo. Don't forget to press *update* on the right!
 
 I have listed the people chronologically: the one who is here longest is put first. Some people have extra information that becomes visible when you click on it. For example, adding the following in the “Description/biography” will create a “More information” dropdown text.
 
@@ -136,4 +136,4 @@ PhD topic : Bla bla bla
 [/expand]
 ```
 
-Unfortunately there is no way to move a contact from one team to another, you’ll have to do this by hand.
+Unfortunately there is no way to move a contact from one team to another, you’ll have to do this by hand. Unless you convince someone to pay for the pro-version of the team-members plugin.
