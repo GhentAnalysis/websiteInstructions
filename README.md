@@ -9,7 +9,7 @@ The website https://epp.ugent.be/ was set up by Ward Van Driessche end 2018 with
 * [How to add an image?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-an-image)
 * [How to add a pdf?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-a-pdf)
 * [How to add a table?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-a-table)
-* [How to add a table?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-a-table)
+* [How to add update a table (e.g. PhD and master theses)?](https://github.com/GhentAnalysis/websiteInstructions#how-to-update-a-table-eg-phdmaster-theses)
 * [How to change the email contact person?](https://github.com/GhentAnalysis/websiteInstructions#how-to-change-the-email-contact-person)
 * [How to remove/add/relocate a person?](https://github.com/GhentAnalysis/websiteInstructions#how-to-removeaddrelocate-a-person)
 
