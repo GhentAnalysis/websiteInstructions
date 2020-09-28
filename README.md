@@ -9,6 +9,7 @@ The website https://epp.ugent.be/ was set up by Ward Van Driessche end 2018 with
 * [How to add an image?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-an-image)
 * [How to add a pdf?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-a-pdf)
 * [How to add a table?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-a-table)
+* [How to add a table?](https://github.com/GhentAnalysis/websiteInstructions/blob/master/README.md#how-to-add-a-table)
 * [How to change the email contact person?](https://github.com/GhentAnalysis/websiteInstructions#how-to-change-the-email-contact-person)
 * [How to remove/add/relocate a person?](https://github.com/GhentAnalysis/websiteInstructions#how-to-removeaddrelocate-a-person)
 
@@ -103,7 +104,9 @@ Don’t forget to save changes!
 How to add a table in a page? You’ll find a shortcode for the table under “Table Information”. E.g. [table id=2 /] 
 Simply copy this into your page (under “Pages”) and the table will be added to the page!
 
+# How to update a table (e.g. PhD/Master theses)?
 
+Go to [PhD thesis table](https://epp.ugent.be/wp-admin/admin.php?page=tablepress&action=edit&table_id=3) or [Master thesis table](https://epp.ugent.be/wp-admin/admin.php?page=tablepress&action=edit&table_id=2) and simply fill in a new row. If there are no empty rows at the bottom, look for the "Add" button in the "Table manpulation".
 
 # How to change the email contact person?
 
