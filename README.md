@@ -18,6 +18,7 @@ The website https://epp.ugent.be/ was set up by Ward Van Driessche end 2018 with
 The website uses wordpress, which makes implementations fairly easy and no knowledge of html/css is required, though also limit your flexibility in customizing. Problems can be easily found on Google!
 
 In order to make changes to the website, surf to https://epp.ugent.be/wp-admin
+(you might need to set up a VPN connection when you are not on the university network)
 
 Username: ugentfysicaensterrenkunde
 
